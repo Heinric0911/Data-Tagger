@@ -6,8 +6,8 @@ SAP Functional Consultant Job Tags Generator
 This Python program generates relevant tags for SAP Functional Consultant job titles using Google's Generative AI API. The generated tags summarize key skills and areas of expertise, which can be useful for job descriptions and resumes.
 
 # Features
-API Integration: Uses Google's Generative AI API to generate tags.
-Error Handling: Includes retry mechanism for API calls.
+1. API Integration: Uses Google's Generative AI API to generate tags.
+2. Error Handling: Includes retry mechanism for API calls.
 Batch Processing: Processes job titles in batches to manage resources.
 CSV Output: Saves job titles and tags to a CSV file.
 
